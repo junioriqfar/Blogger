@@ -1,0 +1,48 @@
+.showpageArea {
+  font-family:verdana,arial,helvetica;
+  color: #fff;
+  font-size:11px; 
+  margin:0px;
+  padding:8px 20px;
+  -moz-border-radius:5px;
+  -webkit-border-radius:5px;
+  border-radius:5px;
+  background: rgba(0,0,0,0.5);
+  }
+  
+.showpageArea a {
+  color: #fff;
+  }
+  
+.showpageNum a {
+  padding: 3px 8px;
+  margin:0 4px;
+  text-decoration: none;
+  -moz-border-radius:5px;
+  -webkit-border-radius:5px;
+  border-radius:5px;
+  background: transparent;
+  color:#da6100;
+  }
+  
+.showpageNum a:hover {
+  background: #da6100;
+  color: #fff;
+  }
+
+.showpagePoint {
+  color:#fff;
+  padding: 3px 8px;
+  margin: 2px;
+  font-weight: 700;
+  background: #da6100;
+  -moz-border-radius:5px;
+  -webkit-border-radius:5px;
+  border-radius:5px;
+  text-decoration: none;
+  }
+
+.showpageOf{
+  margin:0 8px 0 0;
+  color:#fff;
+  }
