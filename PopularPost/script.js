@@ -35,7 +35,7 @@ for(var d=0;d<h.link.length;d++){
   }
   sortPosts();
   for(var f=0;f<maxshowresult;f++){
-    var e='<li><a href="'+postUrlar[f]+'" class="recent-link">'+postTitlear[f]+" {"+postCommentar[f]+"  "+explanation+"}</a>";
+    var e='<li><a href="'+postUrlar[f]+'" target="_blank" class="recent-link">'+postTitlear[f]+" <b>["+postCommentar[f]+"  "+explanation+"]</b></a>";
     document.write(e)
   }
 }
